@@ -46,6 +46,7 @@ It features a staff directory, IT request form, ticket tracking, and a to-do lis
 
 ## Future Improvements
 
+- Due to time constraints, the responsive design is not fully implemented. With more time, I would ensure the layout and all components adapt smoothly to all screen sizes and devices.
 - Add authentication and user roles (staff/admin)
 - Connect to a real backend/API
 - Add more comprehensive unit and integration tests (Only 1 was done to demonstrate the ability)
